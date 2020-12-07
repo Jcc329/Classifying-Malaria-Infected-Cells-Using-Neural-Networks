@@ -11,7 +11,8 @@ By <a href="https://github.com/Jcc329">Jessica Conroy Styer</a>
     <li><a href="https://github.com/Jcc329/Classifying-Malaria-Infected-Cells-Using-Neural-Networks/blob/main/Jupyter%20Notebooks/Exploratory%20Analysis_Final%20Project.ipynb">2. Exploratory Analysis</a> - The jupyter notebook containing exploratory analyses (takes much longer to run) </li>
     <li><a href="https://colab.research.google.com/drive/11Me6TJWDqCsK-7zHNAliLxNJS2_HFwJU?usp=sharing">2.5 Google Colab Exploratory Analysis</a> - The link to the Google Colab notebook containing exploratory analyses and the tensorboard comparison, recommended for faster execution. Note: This is not identical to the jupyter notebook as it replaces the manual checking of parameters with a tensorboard instance. </li>
     <li><a href="https://github.com/Jcc329/Investigating-Clusters-Among-US-Birth-Data/blob/main/Notebooks/Technical%20Notebook%20HW%202.ipynb">3. Technical Report</a> - The technical notebook containing the report and final model used. </li>
-  <li><a href="https://github.com/Jcc329/Investigating-Clusters-Among-US-Birth-Data/blob/main/README.md">README.md</a> - An overview of the project and results</li> 
+  <li><b>Image Data</b> - Example parasitized and uninfected images. The notebooks include data aquisition programatically</li>
+  <li><a href="https://github.com/Jcc329/Classifying-Malaria-Infected-Cells-Using-Neural-Networks/blob/main/README.md">README.md</a> - An overview of the project and results</li> 
 </ul>
 
 ### Overview
@@ -39,7 +40,9 @@ There were several factors that led to my decision to use this image data. First
 The data used were collected from Kaggle: https://www.kaggle.com/syedamirraza/malaria-cell-image?select=cell_images
 They consist of labeled images of malaria infected and healthy cells. 
 
-<img src="Image Data/C100P61ThinF_IMG_20150918_144104_cell_162.png" alt="Parasitized cell">
+<img src="Image Data/C100P61ThinF_IMG_20150918_144104_cell_162.png" alt="Parasitized cell"> 
+<img src="Image Data/C1_thinF_IMG_20150604_104722_cell_15.png" alt="Uninfected cell">
+Left: Parasitized, Right: Uninfected
 
 ### Conclusion
 
