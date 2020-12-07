@@ -7,8 +7,8 @@ By <a href="https://github.com/Jcc329">Jessica Conroy Styer</a>
 <ul>
   <li><b>Notebooks</b> - The Jupyter notebooks used to complete this project.</li>
   <ul>
-    <li><a href="https://github.com/Jcc329/Investigating-Clusters-Among-US-Birth-Data/blob/main/Notebooks/Data%20Cleaning.ipynb">1. Data Cleaning</a></li> - The notebook showing how the initial data was acquired and processed to create the cleaned dataset.
-    <li><a href="https://github.com/Jcc329/Investigating-Clusters-Among-US-Birth-Data/blob/main/Notebooks/Exploratory%20Analysis%20HW%202.ipynb">2. Exploratory Analysis</a> - The jupyter notebook containing exploratory analyses (takes much longer to run) </li>
+    <li><a href="https://github.com/Jcc329/Classifying-Malaria-Infected-Cells-Using-Neural-Networks/blob/main/Jupyter%20Notebooks/Data%20Cleaning%20_%20Final%20Project.ipynb">1. Data Cleaning</a></li> - The notebook showing how the initial data was acquired and processed to create the cleaned dataset.
+    <li><a href="https://github.com/Jcc329/Classifying-Malaria-Infected-Cells-Using-Neural-Networks/blob/main/Jupyter%20Notebooks/Exploratory%20Analysis_Final%20Project.ipynb">2. Exploratory Analysis</a> - The jupyter notebook containing exploratory analyses (takes much longer to run) </li>
     <li><a href="https://colab.research.google.com/drive/11Me6TJWDqCsK-7zHNAliLxNJS2_HFwJU?usp=sharing">2.5 Google Colab Exploratory Analysis</a> - The link to the Google Colab notebook containing exploratory analyses and the tensorboard comparison, recommended for faster execution. Note: This is not identical to the jupyter notebook as it replaces the manual checking of parameters with a tensorboard instance. </li>
     <li><a href="https://github.com/Jcc329/Investigating-Clusters-Among-US-Birth-Data/blob/main/Notebooks/Technical%20Notebook%20HW%202.ipynb">3. Technical Report</a> - The technical notebook containing the report and final model used. </li>
   <li><a href="https://github.com/Jcc329/Investigating-Clusters-Among-US-Birth-Data/blob/main/README.md">README.md</a> - An overview of the project and results</li> 
@@ -39,7 +39,7 @@ There were several factors that led to my decision to use this image data. First
 The data used were collected from Kaggle: https://www.kaggle.com/syedamirraza/malaria-cell-image?select=cell_images
 They consist of labeled images of malaria infected and healthy cells. 
 
-<img src="C:\Users\15856\Data 602\FinalProject\Cell_Images\cell_images\train\parasitized\C33P1thinF_IMG_20150619_114756a_cell_179.png" alt="Parasitized cell">
+<img src="Image Data/C100P61ThinF_IMG_20150918_144104_cell_162.png" alt="Parasitized cell">
 
 ### Conclusion
 
