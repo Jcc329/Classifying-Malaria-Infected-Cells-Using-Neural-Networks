@@ -39,6 +39,8 @@ There were several factors that led to my decision to use this image data. First
 The data used were collected from Kaggle: https://www.kaggle.com/syedamirraza/malaria-cell-image?select=cell_images
 They consist of labeled images of malaria infected and healthy cells. 
 
+<img src="C:\Users\15856\Data 602\FinalProject\Cell_Images\cell_images\train\parasitized\C33P1thinF_IMG_20150619_114756a_cell_179.png" alt="Parasitized cell">
+
 ### Conclusion
 
 While I was not able to train the model to a target accuracy of 97%, I was able to get to a test accuracy of about 95.2%. Despite being lower than the accuracy produced by lab studies, using a model like this would still provide some benefits. For example, running an image into the model and receiving a prediction would still occur in a faster time frame than the time needed to send a sample to a lab to be processed. In addition, the accuracy is far better than the current rapid tests, which means that this could be a potential replacement for those tests, saving time and therefore money in the diagnosis process of malarial treatment. 
